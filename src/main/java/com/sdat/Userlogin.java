@@ -4,6 +4,7 @@ import java.util.ResourceBundle;
 
 public class Userlogin {
 	int i=0;
+	int j=0;
 	
 	public int userlogin(String uname, String upass) {
 		
